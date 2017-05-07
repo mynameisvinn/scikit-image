@@ -46,4 +46,5 @@ __all__ = ['find_contours',
            'compare_nrmse',
            'compare_psnr',
            'shannon_entropy',
+           'average_hash'
            ]
